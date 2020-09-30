@@ -15,3 +15,6 @@
 - git commit -m “First commit with java files”
 - git push -u origin master
 
+- svn add
+- svn commit
+- svn delete
