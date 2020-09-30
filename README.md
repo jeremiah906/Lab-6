@@ -1,7 +1,7 @@
 # Commands FOR LAB 6
 
-cd desktop
-mkdir Repo1
+- cd desktop
+- mkdir Repo1
 cd Repo1
 touch HelloWorld.java
 git init
